@@ -1,6 +1,14 @@
-==========
+===========================
+WIP: Distributed Hypothesis
+===========================
+
+This is a fork of `HypothesisWorks/hypothesis
+<https://github.com/HypothesisWorks/hypothesis>`_.  The purpose of
+this fork is to extend Hypothesis to enable property-based testing of
+distributed systems.
+
 Hypothesis
-==========
+----------
 
 Hypothesis is family of testing libraries which let you write tests parametrized
 by a source of examples. A Hypothesis implementation then generates simple and
